@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <!-- Channel Information -->
+
   <channel id="alltv.ph">
     <display-name>ALLTV</display-name>
   </channel>
@@ -55,9 +55,7 @@
   </programme>
 
 
-  
-  <!-- Weekday Schedule (Dec 2 - Dec 6) -->
-  <!-- Repeat for each weekday -->
+
   <programme start="20241202050000 +0800" stop="20241202070000 +0800" channel="alltv.ph">
     <title>UNANG RADYO, UNANG BALITA</title>
     <desc>Zhander Cayabyab & Jane Martin</desc>

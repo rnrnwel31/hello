@@ -5,51 +5,51 @@
     <display-name>ALLTV</display-name>
   </channel>
 
-  <programme start="20241202073000 +0800" stop="20241202080000 +0800" channel="alltv.ph">
+  <programme start="20241201073000 +0800" stop="20241201080000 +0800" channel="alltv.ph">
     <title>Kingdom Force</title>
     <desc></desc>
   </programme>
-  <programme start="20241202080000 +0800" stop="20241202100000 +0800" channel="alltv.ph">
+  <programme start="20241201080000 +0800" stop="20241201100000 +0800" channel="alltv.ph">
     <title>Nathaniel</title>
     <desc></desc>
   </programme>
-  <programme start="20241202100000 +0800" stop="20241202130000 +0800" channel="alltv.ph">
+  <programme start="20241201100000 +0800" stop="20241201130000 +0800" channel="alltv.ph">
     <title>Sa Puso Ko, Iingatan Ka</title>
     <desc></desc>
   </programme>
-  <programme start="20241202130000 +0800" stop="20241202140000 +0800" channel="alltv.ph">
+  <programme start="20241201130000 +0800" stop="20241201140000 +0800" channel="alltv.ph">
     <title>M.O.M.S: Mhies on a Mission</title>
     <desc></desc>
   </programme>
-  <programme start="20241202140000 +0800" stop="20241202143000 +0800" channel="alltv.ph">
+  <programme start="20241201140000 +0800" stop="20241201143000 +0800" channel="alltv.ph">
     <title>Basta Enerhiya, Sagot Kita!</title>
     <desc></desc>
   </programme>
-  <programme start="20241202143000 +0800" stop="20241202150000 +0800" channel="alltv.ph">
+  <programme start="20241201143000 +0800" stop="20241201150000 +0800" channel="alltv.ph">
     <title>Kadenang Ginto</title>
     <desc></desc>
   </programme>
-  <programme start="20241202150000 +0800" stop="20241202154500 +0800" channel="alltv.ph">
+  <programme start="20241201150000 +0800" stop="20241201154500 +0800" channel="alltv.ph">
     <title>KBYN: Kaagapay ng Bayan</title>
     <desc></desc>
   </programme>
-  <programme start="20241202154500 +0800" stop="20241202163000 +0800" channel="alltv.ph">
+  <programme start="20241201154500 +0800" stop="20241201163000 +0800" channel="alltv.ph">
     <title>Ipaglaban Mo!</title>
     <desc></desc>
   </programme>
-  <programme start="20241202163000 +0800" stop="20241202173000 +0800" channel="alltv.ph">
+  <programme start="20241201163000 +0800" stop="20241201173000 +0800" channel="alltv.ph">
     <title>Paano Kita Mapasasalamatan?</title>
     <desc></desc>
   </programme>
-  <programme start="20241202173000 +0800" stop="20241202183000 +0800" channel="alltv.ph">
+  <programme start="20241201173000 +0800" stop="20241201183000 +0800" channel="alltv.ph">
     <title>TV Patrol Weekend</title>
     <desc></desc>
   </programme>
-  <programme start="20241202183000 +0800" stop="20241202220000 +0800" channel="alltv.ph">
+  <programme start="20241201183000 +0800" stop="20241201220000 +0800" channel="alltv.ph">
     <title>Hiram</title>
     <desc></desc>
   </programme>
-  <programme start="20241202220000 +0800" stop="20241202000000 +0800" channel="alltv.ph">
+  <programme start="20241201220000 +0800" stop="20241201000000 +0800" channel="alltv.ph">
     <title>Again My Life</title>
     <desc></desc>
   </programme>

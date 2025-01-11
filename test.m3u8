@@ -1,139 +1,122 @@
 #EXTM3U
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/16" tvg-id="1ba066dd1b7bdc38cf85d52e25722542" tvg-chno="1",SBS
-http://132.145.84.42:9981/stream/channelid/1567006747?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" tvg-id="559f7ecec2c968cc60774570a01f931f" tvg-chno="2",1TV
-http://132.145.84.42:9981/stream/channelid/1316921173?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237810007_114611.png" tvg-id="59cdf7bb1402c569f78fcdb558c895a4" tvg-chno="3",2TV
-http://132.145.84.42:9981/stream/channelid/1006095705?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738393212_70061.png" tvg-id="2c9df846fc1cfbd0ebc57824095b231b" tvg-chno="5",KBS Joy
-http://132.145.84.42:9981/stream/channelid/1190698284?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2019/9/2/1567407662408_155622.png" tvg-id="43614a86430b08ed7f9393c4120ae97e" tvg-chno="7",KBS WORLD
-http://132.145.84.42:9981/stream/channelid/105537859?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/13" tvg-id="21d9345a618e2c595af8b2b0bb22bd59" tvg-chno="8",SBS funE
-http://132.145.84.42:9981/stream/channelid/1513412897?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/8" tvg-id="165219ad64be3bf8bc93df5dd9b7cc25" tvg-chno="11",SBS Golf
-http://132.145.84.42:9981/stream/channelid/756634134?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/9" tvg-id="8c6c79fcebd0153c220c09c32ed9fe10" tvg-chno="15",SBS Golf2
-http://132.145.84.42:9981/stream/channelid/2088332428?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/2" tvg-id="d0f8c64a2118fd8a8164bc1559777cbd" tvg-chno="17",SBS Plus
-http://132.145.84.42:9981/stream/channelid/1254553808?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738393154_70050.png" tvg-id="5e2f0c87becf452b0c2da40c7b0cf23c" tvg-chno="18",KBS Drama
-http://132.145.84.42:9981/stream/channelid/118239070?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/4" tvg-id="405f7d5e26c211a7018da85a6cd42493" tvg-chno="21",SBS M
-http://132.145.84.42:9981/stream/channelid/1585274688?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/5" tvg-id="587e3a0d8bf13257c316abfd0e356da2" tvg-chno="22",K POP
-http://132.145.84.42:9981/stream/channelid/221937240?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2021/3/29/1617003238551_233261.png" tvg-id="7d69a8b3eaa7f221c92eb05b24fcdd3f" tvg-chno="23",KBS KIDS
-http://132.145.84.42:9981/stream/channelid/866675069?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2021/3/29/1617003417355_233294.png" tvg-id="2fc5bf4ea2aabdde24b7d49b7c81bba2" tvg-chno="24",KBS Story
-http://132.145.84.42:9981/stream/channelid/1321190703?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2021/8/6/1628236007478_271543.png" tvg-id="a627de4a5e5b74cb5c468dd55b66f6e4" tvg-chno="25",독도
-http://132.145.84.42:9981/stream/channelid/1256073126?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2021/11/5/1636096742409_283912.png" tvg-id="d3af5f46362789ff84c33c88d91d3525" tvg-chno="26",KBS NEWS D
-http://132.145.84.42:9981/stream/channelid/1180676051?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/17" tvg-id="4e0c1f7cb28d40bc8f78e95ed23dc1cb" tvg-chno="27",SBS BIZ
-http://132.145.84.42:9981/stream/channelid/2082409550?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2021/3/29/1617003311661_233272.png" tvg-id="b9085f8d812684d4df2fb624a75a7515" tvg-chno="28",KBS LIFE
-http://132.145.84.42:9981/stream/channelid/224331961?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738651266_70243.png" tvg-id="4f08edae3951c9a9e57963e6dbb20eb1" tvg-chno="29",1FM
-http://132.145.84.42:9981/stream/channelid/787286095?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738651354_70254.png" tvg-id="c5cb3a85a5d3345203c23c13517ec1a2" tvg-chno="30",2FM
-http://132.145.84.42:9981/stream/channelid/87739333?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/10" tvg-id="725e67325ef68ad4425f1f708ed02590" tvg-chno="31",FM4U
-http://132.145.84.42:9981/stream/channelid/845635186?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/11" tvg-id="b97cf646bccfe44e8c1480e0e9c64e36" tvg-chno="32",표준FM
-http://132.145.84.42:9981/stream/channelid/1190558905?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/12" tvg-id="0550200b86f72ff1760f03fbe6944106" tvg-chno="33",POWER FM
-http://132.145.84.42:9981/stream/channelid/186667013?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/18" tvg-id="1c54cbed19a21af0b3275db0c978d32c" tvg-chno="34",LOVE FM
-http://132.145.84.42:9981/stream/channelid/1842041884?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738651015_70210.png" tvg-id="20c4a12d6f5e95ba55ad291466931e36" tvg-chno="35",1라디오
-http://132.145.84.42:9981/stream/channelid/765576224?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/3/21/1679364982300_334708.png" tvg-id="0fe210603376fe2cab5d430cf0ef7b58" tvg-chno="36",2라디오
-http://132.145.84.42:9981/stream/channelid/1611719183?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738651184_70232.png" tvg-id="f4c0826e137b0b73e44160e16b8ca07b" tvg-chno="37",3라디오
-http://132.145.84.42:9981/stream/channelid/1854062836?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/8/2/1533183629657_93104.png" tvg-id="01b293be8b898c9aa6c10579d10651e0" tvg-chno="38",한민족방송
-http://132.145.84.42:9981/stream/channelid/1049866753?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/19" tvg-id="fb085b37a9109abd34d2299aadba800e" tvg-chno="39",GorealraM
-http://132.145.84.42:9981/stream/channelid/928712955?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/6" tvg-id="59d2df464ab8019d3eab0107f74dc200" tvg-chno="40",올댓뮤직
-http://132.145.84.42:9981/stream/channelid/1189073497?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/45" tvg-id="334c4c3e68da18aecdd79a34877f492e" tvg-chno="43",SBS Life
-http://132.145.84.42:9981/stream/channelid/1045187635?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/57" tvg-id="23950cc54eccb23e3dac87ddc5a7d85b" tvg-chno="45",[LIVE] 런닝맨 무료TV : 제2의멤버
-http://132.145.84.42:9981/stream/channelid/1158452515?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="cdf8cada5381cdc44069862f51bc8105" tvg-chno="46",[LIVE] 런닝맨 무료TV : 원년멤버
-http://132.145.84.42:9981/stream/channelid/1523251405?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="f671572400beeb1bcff9f2fe688cc9ec" tvg-chno="47",[LIVE] 추적자 무료TV
-http://132.145.84.42:9981/stream/channelid/609710582?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="2aab1fa754ae03b2c899319794c4e456" tvg-chno="48",[LIVE] 돌아와요 아저씨 무료TV
-http://132.145.84.42:9981/stream/channelid/656386858?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="84b1a01dae99267c614e0f15cb85803a" tvg-chno="49",[LIVE] 시티홀 무료TV
-http://132.145.84.42:9981/stream/channelid/497070468?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="93ec97697695dd8850ad1c6471279461" tvg-chno="50",[LIVE] 앨리스 무료TV
-http://132.145.84.42:9981/stream/channelid/1771564179?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="6389388fcf489650e2e4eacb1518b734" tvg-chno="51",[LIVE] 모래시계 무료TV
-http://132.145.84.42:9981/stream/channelid/255363427?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="fd289de53f1d4609c5608c4832fb8efb" tvg-chno="52",[LIVE] 대물 무료TV
-http://132.145.84.42:9981/stream/channelid/1704798461?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="677c995b5748083e34c1a49ce7061d73" tvg-chno="53",[LIVE] 상속자들 무료TV
-http://132.145.84.42:9981/stream/channelid/1536785511?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="9c0b9d5559c14760e56307434417fc97" tvg-chno="54",[LIVE] 펀치 무료TV
-http://132.145.84.42:9981/stream/channelid/1436355484?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="ab0a9c999a8291729c9f67e344e9b470" tvg-chno="55",[LIVE] 질투의 화신 무료TV
-http://132.145.84.42:9981/stream/channelid/429656747?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="759630f52870398d469613682acdca71" tvg-chno="56",[LIVE] 스토브리그 무료TV
-http://132.145.84.42:9981/stream/channelid/1966118517?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="0dc6596c22bcd10351f5dcfbed40d47b" tvg-chno="57",[LIVE] 웬그막 무료TV
-http://132.145.84.42:9981/stream/channelid/1817822733?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="95846fe3eebc9e5991e864d2edc46118" tvg-chno="58",[LIVE] 신의 선물 무료TV
-http://132.145.84.42:9981/stream/channelid/1668252821?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="1fdc9926dc70c431af5a36a687605e12" tvg-chno="59",[LIVE] 쓰리데이즈 무료TV
-http://132.145.84.42:9981/stream/channelid/647617567?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="1e1e47c6b24e82736b7f6a325a679f66" tvg-chno="60",[LIVE] 아내의 유혹 무료TV
-http://132.145.84.42:9981/stream/channelid/1179065886?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="206b6060d69e9743b5c620551940e74e" tvg-chno="61",[LIVE] 꼬꼬무 무료TV
-http://132.145.84.42:9981/stream/channelid/1616931616?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="4192d0e3594abb7e4b448b77b5dbc230" tvg-chno="62",[LIVE] 그알 무료TV : 미궁
-http://132.145.84.42:9981/stream/channelid/1674613313?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="1c22d692188c55893f318b21e173f8c3" tvg-chno="64",[LIVE] 체인지 무료TV
-http://132.145.84.42:9981/stream/channelid/316023324?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="261efb48e320fd689bbf06a2f121613e" tvg-chno="65",[LIVE] 오!마이베이비 무료TV
-http://132.145.84.42:9981/stream/channelid/1224416806?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/58" tvg-id="6c11bd2dbb6e846d7e57c1972a047e38" tvg-chno="68",[LIVE] 궁금한이야기Y 무료TV
-http://132.145.84.42:9981/stream/channelid/767365484?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="30df448c87b07134e0d294a1b8d551e4" tvg-chno="69",[LIVE] 골목식당 무료TV
-http://132.145.84.42:9981/stream/channelid/205840176?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="802fdfdaacb7521f8ab3957754bc01ba" tvg-chno="70",[LIVE] 미우새 무료TV : 도전기
-http://132.145.84.42:9981/stream/channelid/1524576128?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="4b37159717f879929973636f7f1fe1f7" tvg-chno="71",[LIVE] 조명섭 무료TV
-http://132.145.84.42:9981/stream/channelid/387266379?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/53" tvg-id="67f8646744510ad050db790bf408b56a" tvg-chno="72",[LIVE] 대환장 한국 체험기
-http://132.145.84.42:9981/stream/channelid/1734670439?profile=pass
-#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/54" tvg-id="3a7b86c6da21a7bf989a883cc876c21a" tvg-chno="73",[LIVE] 트로트 인기 TOP 50
-http://132.145.84.42:9981/stream/channelid/1183218490?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841680191_329869.png" tvg-id="b62dd26d59fce2db05005a95d13048c1" tvg-chno="77",쌈, 마이웨이
-http://132.145.84.42:9981/stream/channelid/1842490806?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841680406_329881.png" tvg-id="3d952c5c6b518b39062ce8e8e04bec6b" tvg-chno="78",태조 왕건
-http://132.145.84.42:9981/stream/channelid/1546425661?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/4/3/1680507537929_336755.png" tvg-id="188b0d9cf2a17bfc8ee35325526e38f9" tvg-chno="79",직장의 신
-http://132.145.84.42:9981/stream/channelid/470649624?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841680866_329927.png" tvg-id="daee465433c167dc93b34f9477f15c54" tvg-chno="80",아이가 다섯
-http://132.145.84.42:9981/stream/channelid/1413934810?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/5/10/1683696624872_343015.png" tvg-id="5c281767270b96cfac279630341b2fbc" tvg-chno="81",제빵왕 김탁구
-http://132.145.84.42:9981/stream/channelid/1729570908?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/5/3/1683091899391_339371.png" tvg-id="0c65e991f92fb2dded0f24dd6d36d276" tvg-chno="82",1박 2일
-http://132.145.84.42:9981/stream/channelid/300508428?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/6/15/1686805862172_346369.png" tvg-id="f53337cbe0f3584902fe94e4294260db" tvg-chno="83",내 딸 서영이
-http://132.145.84.42:9981/stream/channelid/1261908981?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841748902_329983.png" tvg-id="704ca93dd7ecda3236fca6036fd81080" tvg-chno="84",역사저널 그날
-http://132.145.84.42:9981/stream/channelid/1034505328?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841749129_330009.png" tvg-id="5cead17d5021bcaed2192df707b4f056" tvg-chno="85",인간극장
-http://132.145.84.42:9981/stream/channelid/2110909020?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841749330_330021.png" tvg-id="671bc80dd36062b2787459cf85e54a79" tvg-chno="86",어린이 만화동산
-http://132.145.84.42:9981/stream/channelid/231218023?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2022/11/18/1668733711354_319765.png" tvg-id="8484d3d694d6307c9fdcc03537732b11" tvg-chno="87",KBS WORLD MULTILINGUAL
-http://132.145.84.42:9981/stream/channelid/1456702596?profile=pass
-#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2022/11/21/1668995416339_320041.png" tvg-id="05153e2ad8626cd011822a07899592b9" tvg-chno="88",KBS WORLD ENGLISH
-http://132.145.84.42:9981/stream/channelid/708711685?profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="NBT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="Digital TV TH",NBT
+http://myserver.myphuket.net:25461/test2/test2/1
+#EXTINF:-1 tvg-id="" tvg-name="3 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.png" group-title="Digital TV TH",3 HD
+http://myserver.myphuket.net:25461/test2/test2/2
+#EXTINF:-1 tvg-id="" tvg-name="5 HD" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch5.png" group-title="Digital TV TH",5 HD
+http://myserver.myphuket.net:25461/test2/test2/3
+#EXTINF:-1 tvg-id="" tvg-name="7 HD" tvg-logo="https://www.ch7.com/xl/lg/images/Ch-7-HD-Logo-crop.png" group-title="Digital TV TH",7 HD
+http://myserver.myphuket.net:25461/test2/test2/4
+#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png" group-title="Digital TV TH",CH8
+http://myserver.myphuket.net:25461/test2/test2/5
+#EXTINF:-1 tvg-id="" tvg-name="ALTV 4" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png" group-title="Digital TV TH",ALTV 4
+http://myserver.myphuket.net:25461/test2/test2/6
+#EXTINF:-1 tvg-id="" tvg-name="Thairath TV " tvg-logo="https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.png" group-title="Digital TV TH",Thairath TV
+http://myserver.myphuket.net:25461/test2/test2/7
+#EXTINF:-1 tvg-id="" tvg-name="THAI PBS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="Digital TV TH",THAI PBS
+http://myserver.myphuket.net:25461/test2/test2/8
+#EXTINF:-1 tvg-id="" tvg-name="WORKPOINT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="Digital TV TH",WORKPOINT
+http://myserver.myphuket.net:25461/test2/test2/9
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS 7" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png" group-title="Digital TV TH",T SPORTS 7
+http://myserver.myphuket.net:25461/test2/test2/10
+#EXTINF:-1 tvg-id="" tvg-name="TRUE 4 U" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.png" group-title="Digital TV TH",TRUE 4 U
+http://myserver.myphuket.net:25461/test2/test2/11
+#EXTINF:-1 tvg-id="" tvg-name="TNN 16" tvg-logo="https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.png" group-title="Digital TV TH",TNN 16
+http://myserver.myphuket.net:25461/test2/test2/12
+#EXTINF:-1 tvg-id="" tvg-name="JKN 18" tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png" group-title="Digital TV TH",JKN 18
+http://myserver.myphuket.net:25461/test2/test2/13
+#EXTINF:-1 tvg-id="" tvg-name="NATION 22" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/09/9c6f59c0-4ebe-11ee-99a7-832609069236_webp_original.png" group-title="Digital TV TH",NATION 22
+http://myserver.myphuket.net:25461/test2/test2/14
+#EXTINF:-1 tvg-id="" tvg-name="GMM 25" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="Digital TV TH",GMM 25
+http://myserver.myphuket.net:25461/test2/test2/15
+#EXTINF:-1 tvg-id="" tvg-name="MONO 29" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png" group-title="Digital TV TH",MONO 29
+http://myserver.myphuket.net:25461/test2/test2/16
+#EXTINF:-1 tvg-id="" tvg-name="MCOT HD 30" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.png" group-title="Digital TV TH",MCOT HD 30
+http://myserver.myphuket.net:25461/test2/test2/17
+#EXTINF:-1 tvg-id="" tvg-name="ONE 31" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png" group-title="Digital TV TH",ONE 31
+http://myserver.myphuket.net:25461/test2/test2/18
+#EXTINF:-1 tvg-id="" tvg-name="Amarin 34 HD" tvg-logo="https://cms.dmpcdn.com/livetv/2024/07/23/5e86fbc0-48c0-11ef-9fca-d9696b8af2b7_webp_original.png" group-title="Digital TV TH",Amarin 34 HD
+http://myserver.myphuket.net:25461/test2/test2/19
+#EXTINF:-1 tvg-id="" tvg-name="PPTV 36" tvg-logo="https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.png" group-title="Digital TV TH",PPTV 36
+http://myserver.myphuket.net:25461/test2/test2/20
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Club" tvg-logo="https://iptv36.vercel.app/logo/cartoonclub.png" group-title="Digital TV TH",Cartoon Club
+http://myserver.myphuket.net:25461/test2/test2/22
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png" group-title="Kid TV",Boomerang
+http://myserver.myphuket.net:25461/test2/test2/23
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="https://cdn.prod.website-files.com/64e961c3862892bff815289d/667534c959673c60d0418dad_logo_ZM_web_crop.png" group-title="Kid TV",ZooMoo
+http://myserver.myphuket.net:25461/test2/test2/24
+#EXTINF:-1 tvg-id="" tvg-name="Boom Anime" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/174_y_BdCq6Xr7og2SHhc3i5KbYxetAEf0nMly.png" group-title="Kid TV",Boom Anime
+http://myserver.myphuket.net:25461/test2/test2/25
+#EXTINF:-1 tvg-id="" tvg-name="หลานม่า How to Make Millions Before Grandma Dies (2024)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ciBi4QmK13W8TlCd2hcgucqgb0.jpg" group-title="Movie TH",หลานม่า How to Make Millions Before Grandma Dies (2024)
+http://myserver.myphuket.net:25461/movie/test2/test2/21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="มนต์รักดอกผักบุ้ง เลิกคุยทั้งอำเภอ (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cwlUUijziYxUs4hK3wXW1ZUatLF.jpg" group-title="Movie TH",มนต์รักดอกผักบุ้ง เลิกคุยทั้งอำเภอ (2020)
+http://myserver.myphuket.net:25461/movie/test2/test2/33.mp4
+#EXTINF:-1 tvg-id="" tvg-name="พี่นาค 4 (2024)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cutKmiY2waSRKvVVChIoQOEt4Xn.jpg" group-title="Movie TH",พี่นาค 4 (2024)
+http://myserver.myphuket.net:25461/movie/test2/test2/42.mp4
+#EXTINF:-1 tvg-id="" tvg-name="หอแต๋วแตก แหกสัปะหยด (2024)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/h59dS8S28ANNfWj5nuga2PveHPP.jpg" group-title="Movie TH",หอแต๋วแตก แหกสัปะหยด (2024)
+http://myserver.myphuket.net:25461/movie/test2/test2/43.mp4
+#EXTINF:-1 tvg-id="" tvg-name="สัปเหน่อ (2024)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cVWP9WJ6NgeUDBdHfUehjaZqrB7.jpg" group-title="Movie TH",สัปเหน่อ (2024)
+http://myserver.myphuket.net:25461/movie/test2/test2/44.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ผีจิก Oh…My Wife (2024)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fdA4dYjjbLJgixAaZjxVEY75Zbv.jpg" group-title="Movie TH",ผีจิก Oh…My Wife (2024)
+http://myserver.myphuket.net:25461/movie/test2/test2/53.mp4
+#EXTINF:-1 tvg-id="" tvg-name="True Thai Film" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.png" group-title="ENTERTAINMENT",True Thai Film
+http://myserver.myphuket.net:25461/test2/test2/55
+#EXTINF:-1 tvg-id="" tvg-name="True Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.png" group-title="ENTERTAINMENT",True Movie Hits
+http://myserver.myphuket.net:25461/test2/test2/56
+#EXTINF:-1 tvg-id="" tvg-name="ROCK Action" tvg-logo="https://cdn.prod.website-files.com/64e961c3862892bff815289d/64f5706309cfeef5f1d4bc1f_logo_act_web.png" group-title="ENTERTAINMENT",ROCK Action
+http://myserver.myphuket.net:25461/test2/test2/57
+#EXTINF:-1 tvg-id="" tvg-name="True Premier 1" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="World Sports",True Premier 1
+http://myserver.myphuket.net:25461/test2/test2/26
+#EXTINF:-1 tvg-id="" tvg-name="True Premier 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="World Sports",True Premier 2
+http://myserver.myphuket.net:25461/test2/test2/27
+#EXTINF:-1 tvg-id="" tvg-name="True Premier 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="World Sports",True Premier 3
+http://myserver.myphuket.net:25461/test2/test2/28
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="World Sports",Bein Sport 1
+http://myserver.myphuket.net:25461/test2/test2/29
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="World Sports",Bein Sport 2
+http://myserver.myphuket.net:25461/test2/test2/49
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="World Sports",Bein Sport 3
+http://myserver.myphuket.net:25461/test2/test2/50
+#EXTINF:-1 tvg-id="" tvg-name="astro Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Astro_Premier_%282D%29.png" group-title="World Sports",astro Premier League
+http://myserver.myphuket.net:25461/test2/test2/54
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 1" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.png" group-title="World Sports",True Sports 1
+http://myserver.myphuket.net:25461/test2/test2/58
+#EXTINF:-1 tvg-id="" tvg-name="True Sports 2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.png" group-title="World Sports",True Sports 2
+http://myserver.myphuket.net:25461/test2/test2/59
+#EXTINF:-1 tvg-id="" tvg-name="ABC News LIVE" tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/H_BoxedWhiteBorder_1250.png" group-title="World News",ABC News LIVE
+http://myserver.myphuket.net:25461/test2/test2/34
+#EXTINF:-1 tvg-id="" tvg-name="SKY News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/800px-Sky-news-logo.svg.png" group-title="World News",SKY News
+http://myserver.myphuket.net:25461/test2/test2/35
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="World News",DW
+http://myserver.myphuket.net:25461/test2/test2/36
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0123_1.png" group-title="World News",France 24
+http://myserver.myphuket.net:25461/test2/test2/37
+#EXTINF:-1 tvg-id="" tvg-name="RT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1280px-Russia-today-logo.svg.png" group-title="World News",RT News
+http://myserver.myphuket.net:25461/test2/test2/38
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png" group-title="World News",NHK World Japan
+http://myserver.myphuket.net:25461/test2/test2/39
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Asie" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="World News",TV5 Monde Asie
+http://myserver.myphuket.net:25461/test2/test2/40
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png" group-title="World News",CCTV 4
+http://myserver.myphuket.net:25461/test2/test2/41
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/BBCNEWS.png" group-title="World News",BBC News
+http://myserver.myphuket.net:25461/test2/test2/46
+#EXTINF:-1 tvg-id="" tvg-name="AL Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/954px-Aljazeera_eng.svg.png" group-title="World News",AL Jazeera
+http://myserver.myphuket.net:25461/test2/test2/47
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/640px-New_Bloomberg_Logo.svg.png" group-title="World News",Bloomberg
+http://myserver.myphuket.net:25461/test2/test2/48
+#EXTINF:-1 tvg-id="" tvg-name="Arirang Korea" tvg-logo="https://cms.dmpcdn.com/livetv/2022/09/08/e55200a0-2f27-11ed-a458-efe831982670_webp_original.png" group-title="World News",Arirang Korea
+http://myserver.myphuket.net:25461/test2/test2/51
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png" group-title="World News",KBS World
+http://myserver.myphuket.net:25461/test2/test2/52
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV Mexico" tvg-logo="https://www.giniko.com/logos/190x110/95.png" group-title="Variety",Miami TV Mexico
+http://myserver.myphuket.net:25461/test2/test2/30
+#EXTINF:-1 tvg-id="" tvg-name="FTV New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/250px-Fashion_TV_logo.svg.png" group-title="Variety",FTV New York
+http://myserver.myphuket.net:25461/test2/test2/31
+#EXTINF:-1 tvg-id="" tvg-name="World Fashion Russia" tvg-logo="https://www.cableman.ru/sites/default/files/channelbug-bl_logo.png" group-title="Variety",World Fashion Russia
+http://myserver.myphuket.net:25461/test2/test2/32
+#EXTINF:-1 tvg-id="" tvg-name="300 ขุนศึกพันธุ์สะท้านโลก (2007)" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/yxyT30CKe59Or3jcyOXl0EW38Zy.jpg" group-title="Movie EN",300 ขุนศึกพันธุ์สะท้านโลก (2007)
+http://myserver.myphuket.net:25461/movie/test2/test2/45.mkv
+#EXTINF:-1 tvg-id="" tvg-name="วิกฤติวันสิ้นโลก (2004) The Day After Tomorrow" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg" group-title="Movie EN",วิกฤติวันสิ้นโลก (2004) The Day After Tomorrow
+http://myserver.myphuket.net:25461/movie/test2/test2/63.mkv
